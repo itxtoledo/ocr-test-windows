@@ -1,0 +1,12 @@
+{
+  "name": "ocr-test-windows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itxtoledo/ocr-test-windows.git",
+  "author": "Gustavo <gugurock50@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tesseract.js": "^2.0.0-alpha.13"
+  }
+}
